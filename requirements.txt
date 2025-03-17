@@ -5,9 +5,9 @@ langchain-core
 langchain-community
 pandas
 plotly
-psycopg2-binary
+
 python-dotenv
 jinja2
 python-dateutil
 sqlalchemy
-
+psycopg2
