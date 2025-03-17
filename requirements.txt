@@ -12,3 +12,4 @@ python-dateutil
 sqlalchemy
 openpyxl
 PyPDF2
+psycopg2
